@@ -8,3 +8,9 @@ __pycache__/
 *.log
 .idea/
 .vscode/
+temp_doc.pdf
+CAM_*.pdf
+test_*.py
+data/*.pdf
+models/*.pkl
+.ipynb_checkpoints/

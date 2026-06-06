@@ -85,5 +85,3 @@ def predict_risk(input_data: dict):
         "risk_probability": round(risk_proba, 3)
     }
 
-if __name__ == "__main__":
-    train_model()

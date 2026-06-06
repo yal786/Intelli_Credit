@@ -45,10 +45,3 @@ def detect_fraud_signals(gst_revenue, bank_inflow, reported_revenue):
     }
 
 
-result = detect_fraud_signals(
-    gst_revenue=100,
-    bank_inflow=40,
-    reported_revenue=120
-)
-
-print(result)
